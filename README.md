@@ -1,3 +1,3 @@
-# Game-Congklak
+# Game Dentuman Lamban
 
-Sebuah game congklak no GUI dengan AI yang menggunakan metode Greedy Best First Search
+Game Permainan Dentuman Lamban (Congklak) Dengan Melawan Musuh (AI) menggunakan Metode Greedy 
